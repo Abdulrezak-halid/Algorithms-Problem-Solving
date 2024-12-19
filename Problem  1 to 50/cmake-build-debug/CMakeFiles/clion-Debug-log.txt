@@ -1,0 +1,16 @@
+/snap/clion/308/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/308/bin/ninja/linux/x64/ninja -G Ninja -S "/home/abod/My_Folders/Prog Map/05 - Algorithms & Problem-Solving Level 2/Problem  1 to 50" -B "/home/abod/My_Folders/Prog Map/05 - Algorithms & Problem-Solving Level 2/Problem  1 to 50/cmake-build-debug"
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/abod/My_Folders/Prog Map/05 - Algorithms & Problem-Solving Level 2/Problem  1 to 50/cmake-build-debug
